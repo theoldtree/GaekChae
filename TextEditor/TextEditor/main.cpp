@@ -372,5 +372,6 @@ int main(int argc, const char * argv[]) {
     viewer.show(createdText);
     CommandReciver command_reciver(createdText, viewer);
     std::cout<<std::endl;
+    std::cout <<std::endl;
 }
 
